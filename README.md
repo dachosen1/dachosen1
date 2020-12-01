@@ -11,7 +11,7 @@
 
 #### 💻 Currently working on:
 
-- Deploying a voice recognition applicatio using Common voice Data 
+- Deploying a voice recognition application using Common Voice Data 
 - Earthquake twitter bot
 
 #### 🌱 Currently learning:
