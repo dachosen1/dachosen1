@@ -21,7 +21,7 @@
 
 #### 💚 Love to do:
 
-- Travel, Salsa Dancing, Hiking, Riding Bicyles  
+- Travel, Salsa Dancing, Hiking, Cycling
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dachosen1&hide=jupyter%20notebook&layout=compact)](https://github.com/dachosen1)
