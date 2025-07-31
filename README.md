@@ -35,4 +35,7 @@ Scripts, SAM templates, and container setups for rapid provisioning of dev/test 
 - Experimentation strategy for product and growth teams
 - MLOps best practices with emphasis on cost monitoring and observability
 
+Want to collaborate or learn more about my work?
+Reach out on LinkedIn or check out the repos below.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dachosen1&hide=jupyter%20notebook&layout=compact)](https://github.com/dachosen1)
